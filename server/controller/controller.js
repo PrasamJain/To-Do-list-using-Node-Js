@@ -32,7 +32,7 @@ exports.addTodo = async function (req, res) {
       error: "Nama todo tidak boleh sama!",
     });
     return false;
-  } else {
+  } else { 
     Todo.insertMany(req.body, function (err, result) {
       res.redirect("/");
     });
