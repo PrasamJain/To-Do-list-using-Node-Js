@@ -4,28 +4,16 @@
 ## cloning project
 
 ```
-git clone https://github.com/aphrodeosubarno/node-js-todo-app.git
+git clone https://github.com/pj1807/To-Do-list-using-Node-Js.git
 ```
 
 ## install dependencies
-
-```
-yarn install
-```
-
-<p>or</p>
 
 ```
 npm install
 ```
 
 ## run server
-
-```
-yarn run dev
-```
-
-<p>or</p>
 
 ```
 npm run dev
