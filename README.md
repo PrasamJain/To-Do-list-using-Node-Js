@@ -24,5 +24,5 @@ npm run dev
 ## open this server at your browser
 
 ```
-http://localhost:3000
+http://localhost:8000
 ```
